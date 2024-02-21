@@ -1,0 +1,16 @@
+(footprint "Cutout_12_7" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e56ffab2-154a-4375-914d-968425bbd7aa)
+  )
+  (fp_text value "Cutout_12_7" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp bde2a7cf-8b71-47ad-8081-b49124621465)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0790e24b-33be-475d-ba37-211cd8020ee3)
+  )
+  (pad "" np_thru_hole oval (at 0 0 90) (size 1 12.7) (drill oval 1 12.7) (layers "*.Mask") (tstamp f3df6b51-4472-4480-95ef-7b84b812746b))
+)

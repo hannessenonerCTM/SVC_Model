@@ -629,8 +629,8 @@
     (property "Datasheet" "~" (at 66.04 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid f17d9fcb-8ee7-4283-a8f5-ac4ce811a658))
-    (pin "1" (uuid b9f565be-7174-4d88-acdb-ed93931fbd77))
+    (pin "2" (uuid f17d9fcb-8ee7-4283-a8f5-ac4ce811a659))
+    (pin "1" (uuid b9f565be-7174-4d88-acdb-ed93931fbd78))
     (instances
       (project "SVC"
         (path "/ea5b99b2-c73f-42ef-b805-75088c888f14"
@@ -756,7 +756,7 @@
     (property "Datasheet" "https://www.farnell.com/datasheets/2827878.pdf" (at 34.29 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56d189c0-7c64-4dc5-a4af-4a924e459c9e))
+    (pin "1" (uuid 56d189c0-7c64-4dc5-a4af-4a924e459c9f))
     (instances
       (project "SVC"
         (path "/ea5b99b2-c73f-42ef-b805-75088c888f14"
@@ -781,7 +781,7 @@
     (property "Datasheet" "https://www.farnell.com/datasheets/2827878.pdf" (at 34.29 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56d189c0-7c64-4dc5-a4af-4a924e459c9e))
+    (pin "1" (uuid 56d189c0-7c64-4dc5-a4af-4a924e459ca0))
     (instances
       (project "SVC"
         (path "/ea5b99b2-c73f-42ef-b805-75088c888f14"
@@ -806,8 +806,8 @@
     (property "Datasheet" "~" (at 81.28 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid f17d9fcb-8ee7-4283-a8f5-ac4ce811a658))
-    (pin "1" (uuid b9f565be-7174-4d88-acdb-ed93931fbd77))
+    (pin "2" (uuid f17d9fcb-8ee7-4283-a8f5-ac4ce811a65a))
+    (pin "1" (uuid b9f565be-7174-4d88-acdb-ed93931fbd79))
     (instances
       (project "SVC"
         (path "/ea5b99b2-c73f-42ef-b805-75088c888f14"
